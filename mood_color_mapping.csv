@@ -1,0 +1,8 @@
+emotion,mood,color_name,r,g,b
+happy,positive,Sunny Yellow,255,255,0
+sad,low,Calm Blue,0,0,255
+angry,stressed,Warning Red,255,0,0
+fear,stressed,Deep Purple,128,0,128
+disgust,stressed,Forest Green,0,128,0
+surprise,positive,Fresh Green,0,255,0
+neutral,neutral,Soft White,255,255,255
