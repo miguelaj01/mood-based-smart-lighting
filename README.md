@@ -1,4 +1,4 @@
-# 🌈 Mood-Based Smart Lighting System
+# Mood-Based Smart Lighting System
 
 This project uses **AI emotion detection** to dynamically change lighting color in real time.  
 It uses the webcam feed + the FER model to classify facial expressions and displays a mood-based light panel.
